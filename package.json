@@ -9,7 +9,17 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.4",
-    "express-request-id": "^1.4.1"
-  }
+    "express": "^4.17.1",
+    "express-request-id": "^1.4.1",
+    "requirer": "0.0.4"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/armande925/Note_Taker_Assignment.git"
+  },
+  "bugs": {
+    "url": "https://github.com/armande925/Note_Taker_Assignment/issues"
+  },
+  "homepage": "https://github.com/armande925/Note_Taker_Assignment#readme"
 }

@@ -1,6 +1,6 @@
 const  router = require('express').Router();
 
-const notesController = require('./../../../controller/notesController')
+const notesController = require('./../../../controller/notesController');
 
 //prepends '/api'
 router.route('/')
